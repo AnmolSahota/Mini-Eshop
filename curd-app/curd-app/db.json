@@ -1,0 +1,233 @@
+{
+  "products": [
+    {
+      "img": "https://media.istockphoto.com/id/1324847242/photo/pair-of-white-leather-trainers-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=Rbx9ZKVILqu62GF-Lx26YfjYQjGvKK-MJELsg5xg0iY=",
+      "price": 899,
+      "brand": "Nike",
+      "discount": "899",
+      "gender": "kids",
+      "id": 3,
+      "title": "Men White Clarkin Sneakers"
+    },
+    {
+      "brand": "U.S. Polo Assn.",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg",
+      "price": 1349,
+      "discount": "2992",
+      "title": "Men White Clarkin Sneakers",
+      "Percantage": 55,
+      "category": "Shoes",
+      "id": 81,
+      "gender": "female"
+    },
+    {
+      "brand": "Puma",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17350718/2022/5/11/03a74544-12ad-4501-97d5-633b7d9d43971652267731013-Puma-Men-Casual-Shoes-2431652267730668-1.jpg",
+      "price": 2699,
+      "discount": "4499",
+      "title": "Men Cream-Coloured and Orange Colourblocked Sneakers",
+      "Percantage": 40,
+      "category": "Shoes",
+      "id": 82,
+      "gender": "male"
+    },
+    {
+      "brand": "HIGHLANDER",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11097156/2019/12/10/b8d45a95-161f-442c-9e69-6997e05f25ff1575980861980-HIGHLANDER-Men-White-Sneakers-4301575980859728-1.jpg",
+      "price": 696,
+      "discount": "1990",
+      "title": "Men White Sneakers",
+      "Percantage": 65,
+      "category": "Shoes",
+      "id": 83,
+      "gender": "kids"
+    },
+    {
+      "brand": "Roadster",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1416284/2016/7/20/11469012119487-Roadster-Men-Grey-High-Top-Sneakers-1571469012119322-1.jpg",
+      "price": 1649,
+      "discount": "3299",
+      "title": "Men Grey High-Top Sneakers",
+      "Percantage": 50,
+      "category": "Shoes",
+      "id": 84,
+      "gender": "male"
+    },
+    {
+      "brand": "U.S. Polo Assn.",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10331501/2020/3/18/d4d07c60-88d9-43d9-aa78-9cc7712816321584508934272-US-Polo-Assn-Men-White-Colourblocked-Sneakers-84015845089331-1.jpg",
+      "price": 1349,
+      "discount": "2999",
+      "title": "Men White & Grey Colourblocked Sneakers",
+      "Percantage": 55,
+      "category": "Shoes",
+      "id": 85,
+      "gender": "female"
+    },
+    {
+      "brand": "HIGHLANDER",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11097158/2021/2/17/8a4dbf96-9fa1-4ac2-9841-ef7c53e141e31613525189923HIGHLANDERMenGreySneakers1.jpg",
+      "price": 696,
+      "discount": "1990",
+      "title": "Men Grey Sneakers",
+      "Percantage": 65,
+      "category": "Shoes",
+      "id": 86,
+      "gender": "kids"
+    },
+    {
+      "brand": "Roadster",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16513990/2022/1/26/d8f01fca-59e2-4f82-8214-9cd61d373be41643184909272-Roadster-Men-White-Sneakers-6661643184908868-1.jpg",
+      "price": 872,
+      "discount": "3795",
+      "title": "The Lifestyle Co Men White Sneakers",
+      "Percantage": 77,
+      "category": "Shoes",
+      "id": 87,
+      "gender": "female"
+    },
+    {
+      "brand": "U.S. Polo Assn.",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11391306/2020/2/12/10b9eea6-35be-4b7d-8c39-826d4d3500c11581485549564-US-Polo-Assn-Men-Casual-Shoes-4671581485548936-1.jpg",
+      "price": 1499,
+      "discount": "2999",
+      "title": "Men White & Black Colourblocked PANAL Sneakers",
+      "Percantage": 49,
+      "category": "Shoes",
+      "id": 88,
+      "gender": "male"
+    },
+    {
+      "brand": "Mast & Harbour",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11752834/2022/4/25/ad749a37-5563-426a-8595-17e97a1e3f131650883720089MastHarbourMenWhiteSneakers1.jpg",
+      "price": 1224,
+      "discount": "3499",
+      "title": "Men White Sneakers",
+      "Percantage": 65,
+      "category": "Shoes",
+      "id": 89,
+      "gender": "kids"
+    },
+    {
+      "brand": "HIGHLANDER",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11986108/2021/8/5/68605977-c696-4351-b21c-f19ed8ba46951628146095530HIGHLANDERMenWhiteSolidSneakers1.jpg",
+      "price": 1990,
+      "discount": "1990",
+      "title": "696",
+      "Percantage": 75,
+      "category": "Shoes",
+      "id": 90,
+      "gender": "male"
+    },
+    {
+      "brand": "BERSACHE",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21161794/2023/1/12/e87f0734-2190-4d6b-a6fd-875baf41de6b1673513650038BERSACHEMenWovenDesignSneakers1.jpg",
+      "price": 1499,
+      "discount": "4999",
+      "title": "Men Woven Design Sneakers",
+      "Percantage": 35,
+      "category": "Shoes",
+      "id": 91,
+      "gender": "female"
+    },
+    {
+      "brand": "U.S. Polo Assn",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14746050/2022/4/25/1a67b7aa-55dd-4470-89da-61352b3788391650883695832USPoloAssnMenOff-WhiteGAIMAN2OSneakers1.jpg",
+      "price": 1499,
+      "discount": "2999",
+      "title": "Men Off-White GAIMAN 2.O Sneakers",
+      "Percantage": 42,
+      "category": "Shoes",
+      "id": 92,
+      "gender": "kids"
+    },
+    {
+      "brand": "Roadster",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17425548/2022/9/8/77ef6940-a1a1-40af-bf58-e92bc349b8d11662633779415RoadsterMenBlackSneakers1.jpg",
+      "price": 872,
+      "discount": "3795",
+      "title": "Men Black Sneakers",
+      "Percantage": 77,
+      "category": "Shoes",
+      "id": 93,
+      "gender": "female"
+    },
+    {
+      "brand": "HIGHLANDER",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11986142/2021/7/29/838265d6-aaea-4c09-85ff-74056a5097531627552841062-HIGHLANDER-Men-White-Solid-Sneakers-901627552840929-6.jpg",
+      "price": 597,
+      "discount": "1990",
+      "title": "Men White Solid Sneakers",
+      "Percantage": 70,
+      "category": "Shoes",
+      "id": 94,
+      "gender": "male"
+    },
+    {
+      "brand": "HRX by Hrithik Roshan",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10492762/2022/6/20/9cb589d1-a26f-44f3-b5fd-dc4a54e6854d1655719766987-HRX-by-Hrithik-Roshan-Men-Grey--Black-Colourblocked-Chunky-S-1.jpg",
+      "price": 2804,
+      "discount": "5099",
+      "title": "Men Grey & Black Colourblocked Chunky Sneakers",
+      "Percantage": 22,
+      "category": "Shoes",
+      "id": 95,
+      "gender": "kids"
+    },
+    {
+      "brand": "Forca",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21073276/2022/12/5/3b5394bf-9bf3-4635-9e57-8b2904e96d0c1670258827810ForcaMenWhiteSneakers1.jpg",
+      "price": 1699,
+      "discount": "0",
+      "title": "Men White Sneakers",
+      "Percantage": 28,
+      "category": "Shoes",
+      "id": 96,
+      "gender": "male"
+    },
+    {
+      "brand": "HIGHLANDER",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12067984/2021/2/2/0425f19a-852a-45e6-a1f6-7c80526a158f1612240158034-HIGHLANDER-Men-White-Sneakers-2351612240156845-6.jpg",
+      "price": 696,
+      "discount": "1696",
+      "title": "Men White Sneakers",
+      "Percantage": 29,
+      "category": "Shoes",
+      "id": 97,
+      "gender": "female"
+    },
+    {
+      "brand": "HRX by Hrithik Roshan",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11728086/2021/3/19/12d03b84-b179-4ba3-a1e5-8829881f5fcf1616159587202-HRX-by-Hrithik-Roshan-Men-White-Sneakers-5341616159586590-1.jpg",
+      "price": 2759,
+      "discount": "4599",
+      "title": "Men White Sneakers",
+      "Percantage": 14,
+      "category": "Shoes",
+      "id": 98,
+      "gender": "kids"
+    },
+    {
+      "brand": "Roadster",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16925016/2023/1/9/246f6721-2c1a-4c1b-b8e4-701cc78efc1d1673256090855-The-Roadster-Lifestyle-Co-Men-White-Sneakers-681167325609052-1.jpg",
+      "price": 878,
+      "discount": "3995",
+      "title": "The Lifestyle Co Men White Sneakers",
+      "Percantage": 15,
+      "category": "Shoes",
+      "id": 99,
+      "gender": "female"
+    },
+    {
+      "brand": "Kook N Keech",
+      "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20982442/2022/11/29/d4c004ad-d941-447e-9f3a-e496ea748d381669728094821CasualShoes1.jpg",
+      "price": 755,
+      "discount": "2699",
+      "title": "Men White Colourblocked Sneakers",
+      "Percantage": 16,
+      "category": "Shoes",
+      "id": 100,
+      "gender": "female"
+    }
+  ]
+}
